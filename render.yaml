@@ -15,6 +15,6 @@ services:
       - key: TIMEZONE
         sync: true
       - key: PREFIX
-        sync: .
+        sync: true
       - key: POSTGRES_URL
-        sync: false
+        sync: true
