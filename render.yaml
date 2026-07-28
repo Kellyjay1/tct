@@ -11,10 +11,10 @@ services:
 
     envVars:
       - key: SESSION_ID
-        sync: tct_cdd39401
+        sync: true
       - key: TIMEZONE
-        sync: Africa/Lagos
+        sync: true
       - key: PREFIX
-        sync: mine
+        sync: .
       - key: POSTGRES_URL
         sync: false
