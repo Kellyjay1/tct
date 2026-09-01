@@ -123,7 +123,7 @@ BOTS:
   # ========================================
   # BOT 1: Primary (ACTIVE - Uncommented)
   # ========================================
-  - SESSION_ID: "tct_236hgy"              
+  - SESSION_ID: "tct_Adeleye"              
     TIMEZONE: "Africa/Nairobi"             
     PREFIX: "."                           
     #OPENWEATHER_API_KEY: "your_key_here"  
@@ -136,7 +136,7 @@ BOTS:
   # ========================================
   # BOT 2: Secondary (ACTIVE )
   # ========================================
-  - SESSION_ID: "tct_jjxjjx992"
+  - SESSION_ID: "tct_Adeleye"
     TIMEZONE: "Afica/Nairobi"
     PREFIX: "."
     OPENWEATHER_API_KEY: "key_2"
@@ -147,7 +147,7 @@ BOTS:
   # ========================================
   # BOT 3: 
   # ========================================
-  # - SESSION_ID: "tct_3_tertiary"
+  # - SESSION_ID: "tct_Adeleye"
   #   TIMEZONE: "Asia/Tokyo"
   #   PREFIX: "/"
   #   OPENWEATHER_API_KEY: "key_3"
@@ -158,7 +158,7 @@ BOTS:
   # ========================================
   # BOT 4: 
   # ========================================
-  # - SESSION_ID: "tct_4_quart"
+  # - SESSION_ID: "tct_Adeleye"
   #   TIMEZONE: "Europe/London"
   #   PREFIX: "?"
   #   OPENWEATHER_API_KEY: "key_4"
@@ -169,7 +169,7 @@ BOTS:
   # ========================================
   # BOT 5: 
   # ========================================
-  # - SESSION_ID: "tct_5_quint"
+  # - SESSION_ID: "tct_Adeleye"
   #   TIMEZONE: "Australia/Sydney"
   #   PREFIX: "."
   #   OPENWEATHER_API_KEY: "key_5"
